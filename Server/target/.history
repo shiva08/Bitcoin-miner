@@ -1,0 +1,31 @@
+quit
+:q
+exit
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run-main main 4
+sbt compile
+compile
+run-main BitcoinServer 4
+run-main BitcoinServer 3
+run-main BitcoinServer 5
+run-main BitcoinServer 6
+run-main BitcoinServer 7
+run-main BitcoinServer 4
