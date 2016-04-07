@@ -1,5 +1,7 @@
 Shivdeep Nutheti - shiva.0891@gmail.com     
   
+The goal of this rst project is to use Scala and the actor model to build a
+good solution to this problem that runs well on multi-core machines.
 
   1) Go to server folder which has build.sbt file, run the code from here to execute server. 
   2) Pass number of the leading zeroes .
