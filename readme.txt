@@ -1,4 +1,3 @@
-Shivdeep Nutheti - shiva.0891@gmail.com     
   
 The goal of this rst project is to use Scala and the actor model to build a
 good solution to this problem that runs well on multi-core machines.
